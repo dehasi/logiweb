@@ -83,10 +83,11 @@ Yet another attempt to write an application from T-Systems Java school.
 
 
  ### Technologies to be used:
- 1 part: <br>
- - IDE - Intellij IDEA
  - DB – Postgres (but should work with any relational DB)
- - Maven 3.*
+ - Gradle 4.*
  - Spring Framework
  - Docker
  - Flyway
+
+ ### TODO
+ [] Run hello world app from spring boot

@@ -1,4 +1,4 @@
-package dh.logiweb.logiweb;
+package dh.logiweb.controller;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

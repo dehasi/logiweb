@@ -1,6 +1,4 @@
 rootProject.name = 'logiweb'
-include ':database'
-include ':webapp'
+//project(':web').projectDir = "$rootDir/web" as File
+include 'web'
 
-project(':database').projectDir = "$rootDir/database" as File
-project(':webapp').projectDir = "$rootDir/webapp" as File

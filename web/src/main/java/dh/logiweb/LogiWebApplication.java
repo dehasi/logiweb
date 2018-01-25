@@ -1,4 +1,4 @@
-package dh.logiweb.logiweb;
+package dh.logiweb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
