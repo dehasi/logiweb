@@ -90,4 +90,4 @@ Yet another attempt to write an application from T-Systems Java school.
  - Flyway
 
  ### TODO
- [] Run hello world app from spring boot
+ [ ] Run hello world app from spring boot
