@@ -6,6 +6,9 @@ Yet another attempt to write an application from T-Systems Java school.
 
  The task is to write an application that simulates the work of the information system of a company engaged in the carriage of goods. Below is a more detailed subject area and technical requirements.
 
+ ### TODO
+ - [ ] Run hello world app from spring boot
+ 
  DB schema:
 
  <img src="model.png"/>
@@ -88,6 +91,3 @@ Yet another attempt to write an application from T-Systems Java school.
  - Spring Framework
  - Docker
  - Flyway
-
- ### TODO
- [ ] Run hello world app from spring boot
